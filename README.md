@@ -10,6 +10,8 @@
 
 ![image](https://user-images.githubusercontent.com/5698566/230064289-9e8967a1-4ff9-43f3-8495-f4170c23a80f.png)
 
+[my repo](https://pvtex.github.io/kasm-registry/1.0/)
+
 ## Contents
 
 1. [Create your own repository](#1-create-your-own-repository)
