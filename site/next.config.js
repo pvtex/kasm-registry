@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    name: 'PVTex',
+    description: 'PVTex KASM Repo.',
+    icon: 'https://pvtex.github.io/kasm-registry/1.0/logo.png',
+    listUrl: 'https://pvtex.github.io/kasm-registry/',
+    contactUrl: 'https://github.com/pvtex/kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
