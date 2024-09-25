@@ -1,7 +1,7 @@
 {
   "description": "Mikrotik WinBox",
   "docker_registry": "https://index.docker.io/v1/",
-  "image_src": "WinBoxalexhorner/winbox-dockerised.png",
+  "image_src": "WinBox.png",
   "name": "alexhorner/winbox-dockerised",
   "run_config": {
     "hostname": "kasm"
