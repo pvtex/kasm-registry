@@ -1,6 +1,6 @@
 {
   "friendly_name": "Mikrotik WinBox",
-  "image_src": "blob:https://pvtex.github.io/d6992cad-8869-473e-975f-1ea9cacf1623",
+  "image_src": "WinBox.png",
   "description": "Mikrotik WinBox",
   "name": "fialakarel/winbox",
   "cores": 2,
