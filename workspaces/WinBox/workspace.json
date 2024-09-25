@@ -1,0 +1,20 @@
+{
+  "friendly_name": "Mikrotik WinBox",
+  "image_src": "blob:https://pvtex.github.io/d6992cad-8869-473e-975f-1ea9cacf1623",
+  "description": "Mikrotik WinBox",
+  "name": "fialakarel/winbox",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://index.docker.io/v1/",
+  "categories": [
+    "Communication"
+  ],
+  "require_gpu": false,
+  "enabled": true,
+  "image_type": "Container",
+  "architecture": [
+    "amd64"
+  ]
+}
