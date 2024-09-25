@@ -3,10 +3,10 @@
 const nextConfig = {
   env: {
     name: 'PVTex',
-    description: 'PVTex KASMweb Repo.',
-    icon: '/img/logo.png',
-    listUrl: 'https://pvtex.github.io/',
-    contactUrl: 'https://www.pvtex.de',
+    description: 'PVTex KASM Repo.',
+    icon: 'https://pvtex.github.io/kasm-registry/1.0/logo.png',
+    listUrl: 'https://pvtex.github.io/kasm-registry/',
+    contactUrl: 'https://github.com/pvtex/kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
